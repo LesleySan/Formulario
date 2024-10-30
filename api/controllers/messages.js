@@ -2,7 +2,7 @@ const express = require('express');
 
 const router = express.Router();
 
-// criar rota cadastrar
+// criar rota cadastrar :
 
 router.post('/', async (req, res) => {
 
